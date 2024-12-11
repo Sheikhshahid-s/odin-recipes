@@ -1,0 +1,39 @@
+#main {
+    background-color:lavender;
+    text-align:center;
+
+}
+
+.h1 {
+    font-size: 15px;
+    font-family: 'DejaVu Serif',serif,sans-serif;
+    border-width: 2px;
+    margin: 5px;
+    padding: 7px;
+    display:inline-block;
+
+}
+
+.h1,
+.ul,
+.p {
+    color: rgb(128, 0, 0);
+    
+
+}
+
+.ul,
+.p {
+    text-align:left;
+}
+
+.p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+   
+      
+}
+
+
+
+

@@ -1,0 +1,25 @@
+#page {
+    background-color:bisque;
+    text-align: center;
+}
+
+.heading {
+   font-family: 'DejaVu Serif',serif,sans-serif;
+   font-size: 50px;
+    
+}
+
+.heading,
+.sub-heading,
+.h3,
+.steps {
+    color: rgb(128, 0, 0);
+}
+
+ .ul,
+ .ol {
+    text-align:left;
+}
+
+
+
